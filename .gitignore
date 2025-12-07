@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# dotenv
+.env
+
+# Logs
+webcalc2.log
+
+# Editor / OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store

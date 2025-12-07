@@ -1,0 +1,4 @@
+/* Minimal styles for WebCalc2 */
+body { max-width: 960px; margin: 0 auto; }
+.card-title { font-size: 1.25rem; }
+#result { word-wrap: break-word; }
